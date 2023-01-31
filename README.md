@@ -1,1 +1,1 @@
-# Google_calender_add_event_django
+# Google_calendar_add_event_django
